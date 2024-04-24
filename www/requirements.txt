@@ -1,7 +1,0 @@
-numpy
-pandas
-plotly
-streamlit
-streamlit_plotly_events
-scikit-learn
-pickle5
