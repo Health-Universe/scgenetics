@@ -4,7 +4,7 @@ import numpy as np
 import plotly.graph_objects as go
 import streamlit as st 
 from streamlit_plotly_events import plotly_events
-import pickle5 as pickle
+import pickle
 from sklearn.preprocessing import MinMaxScaler
 from urllib.request import urlretrieve
 
