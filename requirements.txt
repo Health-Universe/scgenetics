@@ -4,4 +4,4 @@ plotly
 streamlit
 streamlit_plotly_events
 scikit-learn
-pickle5==0.0.11
+#pickle5
